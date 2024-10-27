@@ -1,0 +1,19 @@
+network_optimizer_GPT4o/
+├── config/
+│   └── settings.py
+├── src/
+│   ├── __init__.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   └── simulator.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── optimizer.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── normalizer.py
+│   │   └── visualizer.py
+│   └── api/
+│       ├── __init__.py
+│       └── ai_client.py
+└── app.py
